@@ -13,7 +13,8 @@ Game logic and state management
 
 Projects Included
 
-1. 🃏 Card Wars
+1. 🃏 Card Wars:
+
 A simple card game where two players draw cards from a deck, and the player with the higher card value wins the round.
 The game continues until one player runs out of cards.
 
@@ -33,6 +34,8 @@ If the cards are equal, a "war" round is triggered.
 The game ends when one player has all the cards.
 
 2. ❌⭕ Tic Tac Toe
+
+   
 A classic two-player Tic Tac Toe game playable in the terminal.
 Players take turns placing X or O on the board until someone wins or the board is full.
 
